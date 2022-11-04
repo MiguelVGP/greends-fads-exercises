@@ -39,7 +39,7 @@ about an API availability (e.g. Home --> Data --> API)
 
 | Platform | URL | Path to API information |Documentation URL | API URL | Data format |
 |------|-----|-------------------------|------------------|---------|-------------|
-| GBIF | https://www.gbif.org/ |   |   |   |   |
+| GBIF | https://www.gbif.org/ | Home--> Get Data--> GBIF API  |   |   |   |
 | Eurostat | https://ec.europa.eu/eurostat/ |   |   |   |   |
 | INE | https://www.ine.pt/ |   |   |   |   |
 | Climate Data Store | https://cds.climate.copernicus.eu/cdsapp#!/home |   |   |   |   |
